@@ -4,6 +4,7 @@ description: All the skills you really need to suceed in business... but were af
   to ask (introductory lecture slides).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/c76aac75e7f1791131544cb531ffe86e_class_1.pdf
 file_type: application/pdf
+parent_uid: f9e31b68-b285-dcff-d97f-8d43f32f461b
 resourcetype: Document
 title: class_1.pdf
 uid: c76aac75-e7f1-7911-3154-4cb531ffe86e
